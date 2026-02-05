@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi there 👋, I'm Ofori Vivian
 
-<!--
-**oforivivian2023-oss/oforivivian2023-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+🔐 Aspiring Cybersecurity Professional  
+💻 Learning Java, Linux, and Networking  
+🌍 Based in Ghana  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I am a passionate beginner in tech, building strong foundations in programming and cybersecurity. I enjoy learning step by step, practicing with real projects, and understanding how systems stay secure.
+
+I believe in growth, consistency, and hands-on learning.
+
+---
+
+## 🛠️ Skills I'm Learning
+
+- ☕ Java Programming  
+- 🐧 Linux Commands & System Navigation  
+- 🌐 Networking Fundamentals  
+- 🔐 Cybersecurity Basics  
+- 🧠 Problem Solving & Logical Thinking  
+
+---
+
+## 📚 Current Projects
+
+🔹 **Java Quiz Game**  
+A console-based quiz application built with Java to practice:
+- Variables  
+- User input  
+- if-else and switch statements  
+- Expressions and operators  
+
+More projects coming soon 🚀
+
+---
+
+## 🎯 Career Goal
+
+To become a **Cybersecurity Specialist** and help protect systems, networks, and data from cyber threats.
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/oforivivian2023-oss  
+- LinkedIn: www.linkedin.com/in/ofori-vivian-5a28bb374
